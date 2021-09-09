@@ -1,2 +1,5 @@
 # Remove all Aseprite files
 *.aseprite
+
+# Ignore Characters folder for the moment
+*Characters/
