@@ -1,0 +1,22 @@
+
+Cast Iron Stove A
+-------------------
+ * Original design and fire animation by Lanea Zimmerman. Fire reflections and recolors by Eliza Wyatt.
+ * Stovetop burners by Eliza Wyatt.
+
+Formal Fireplace A
+-------------------
+ * Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Brick Fireplace A
+-------------------
+ * Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Fireplace Accessories A
+----------------------
+ * Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+
+Links
+----------------
+LPC: Modified Base Tiles: https://opengameart.org/content/lpc-modified-base-tiles (CC-by-SA 3, DRM waived)
