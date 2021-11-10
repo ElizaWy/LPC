@@ -1,0 +1,28 @@
+
+Cast Iron Stove A
+-------------------
+  ARTIST(S): Lanea Zimmerman (aka Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original design and fire animation by Lanea Zimmerman. Fire reflections and recolors by Eliza Wyatt. Stovetop burners by Eliza Wyatt.
+
+Formal Fireplace A
+-------------------
+  ARTIST(S): Lanea Zimmerman (aka Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Brick Fireplace A
+-------------------
+  ARTIST(S): Lanea Zimmerman (aka Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Fireplace Accessories A
+----------------------
+  ARTIST(S): Lanea Zimmerman (aka Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.

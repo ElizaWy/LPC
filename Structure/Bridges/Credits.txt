@@ -1,0 +1,8 @@
+
+Drawbridge A, Rope Bridge A, Wood Bridge A
+-------
+ * Original design made by Lanea Zimmerman. Reworked for tiling by Eliza Wyatt. Recolors by Eliza Wyatt.
+
+
+Links:
+https://lpc.opengameart.org/static/lpc-style-guide/assets.html#outdoors (CC-by-SA 3, DRM waived)

@@ -1,0 +1,48 @@
+
+Adobe Brick Roof
+-------------------
+  ARTIST(S): Lanea Zimmerman (aka Sharm), Eliza Wyatt
+  SOURCE: 
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Expanded for tiling and recolors by Eliza Wyatt.
+
+Adobe Stucco Roof
+-------------------
+  ARTIST(S): Lanea Zimmerman (aka Sharm), Eliza Wyatt
+  SOURCE: 
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Expanded for tiling and recolors by Eliza Wyatt.
+
+Brick Chimney A
+-------------------
+  ARTIST(S): Lanea Zimmerman (aka Sharm), Eliza Wyatt
+  SOURCE: 
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Expanded for alternative roof slants and recolors by Eliza Wyatt.
+
+Flat Shingle Roof A
+-------------------
+  ARTIST(S): Lanea Zimmerman (aka Sharm), Eliza Wyatt
+  SOURCE: 
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Expanded for tiling and recolors by Eliza Wyatt.
+
+Gable Shingle Roof A
+-------------------
+  ARTIST(S): Lanea Zimmerman (aka Sharm), Eliza Wyatt
+  SOURCE: 
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Expanded for tiling, alternative roof slants, and recolors by Eliza Wyatt.
+
+Hipped Shingle Roof A
+-------------------
+  ARTIST(S): Lanea Zimmerman (aka Sharm), Eliza Wyatt
+  SOURCE: 
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Expanded for tiling, alternative roof slants, and recolors by Eliza Wyatt.
+
+Roof Trim A
+-------------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  DETAILS: Original by Eliza Wyatt.

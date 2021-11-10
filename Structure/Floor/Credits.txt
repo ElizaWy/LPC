@@ -1,0 +1,63 @@
+
+Diamond Tile A
+-----------------
+ * Original by Eliza Wyatt
+
+Diamond Tile B
+-----------------
+ * Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Diamond Tile C
+-----------------
+ * Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Floral Carpet A
+-----------------
+ * Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Floral Carpet B
+-----------------
+ * Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Geometric Carpet A
+-----------------
+ * Original by Eliza Wyatt
+
+Geometric Carpet B
+-----------------
+ * Original by Eliza Wyatt
+
+Gritty Dirt
+----------------
+ * Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Herringbone
+----------------
+ * Original by Eliza Wyatt
+
+Tile A
+----------------
+ * Original by Eliza Wyatt
+
+Tile B
+----------------
+ * Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Tile C
+----------------
+ * Original by Eliza Wyatt
+
+Wood Floor A
+----------------
+ * Original by Lanea Zimmerman. Edits and recolors by Eliza Wyatt.
+
+Wood Floor B
+----------------
+ * Original by Lanea Zimmerman. Edits and recolors by Eliza Wyatt.
+
+
+
+Links
+---------------------------
+LPC: Modified Base Tiles: https://opengameart.org/content/lpc-modified-base-tiles  (CC-by-SA 3, DRM waived)
+[LPC] Dungeon Elements: https://opengameart.org/content/lpc-dungeon-elements (CC-by-SA 3, DRM waived)
