@@ -1,0 +1,14 @@
+Child Base Credits
+------------------------------
+License: CC-by-SA 3.0 with DRM clause waived
+
+* Based on the character design by Stephen "Redshrike" Challener
+* Standing pose by Kheftel
+* Walk animation by Nila122, edited by Eliza Wyatt
+* Jump animation by Eliza Wyatt and BenCreating
+
+
+
+Links
+Original design: https://opengameart.org/content/lpc-child-standing-template
+Walkcycle: https://opengameart.org/content/lpc-children-walk-animation

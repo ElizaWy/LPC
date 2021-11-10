@@ -1,0 +1,13 @@
+Muscular Base Credits
+------------------------------
+License: CC-by-SA 3.0 with DRM clause waived
+
+* Based on the LPC male character design by Stephen "Redshrike" Challener
+* Standing and walkcycle by Dalonedrau, edited by Eliza Wyatt
+* Swing (legacy) and Death animations by Eliza Wyatt
+* Jump animation by Eliza Wyatt and BenCreating
+
+
+
+Links
+Original muscular base: https://opengameart.org/content/lpc-barbarian-sprite-base

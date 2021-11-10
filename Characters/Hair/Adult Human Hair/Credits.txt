@@ -1,0 +1,59 @@
+
+Long 01 - Straight
+--------------
+  ARTIST(S): Thecilekli, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-long-straight-hair-with-12-colors
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  DETAILS: Original CC0 by Thecilekli. Edited and recolored by Eliza Wyatt.
+
+Long 02 - Princess
+--------------
+  ARTIST(S): Lanea Zimmerman (Sharm)
+  SOURCE: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Recolored by Eliza Wyatt.
+
+Long 03 - Tied
+--------------
+  ARTIST(S): Thecilekli, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-long-tied-hair-with-12-colors
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  DETAILS: Original CC0 by Thecilekli. Edited and recolored by Eliza Wyatt.
+
+Medium 01 - Page
+--------------
+  ARTIST(S): Johannes Sjölund (Wulax), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+  LICENSE: CC-by-SA 3, DRM waived by Johannes Sjölund
+  DETAILS: Original by Johannes Sjölund. Edited and recolored by Eliza Wyatt.
+
+Medium 02 - Curly
+--------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  DETAILS: Original by Eliza Wyatt.
+
+Medium 03 - Idol
+--------------
+  ARTIST(S): Thecilekli, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-korean-idol-hairstyle-male-with-12-colors
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  DETAILS: Original CC0 by Thecilekli. Edited and recolored by Eliza Wyatt.
+
+Short 01 - Buzzcut
+--------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  DETAILS: Original by Eliza Wyatt.
+
+Short 02 - Parted
+--------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  DETAILS: Original by Eliza Wyatt.
+
+Short 03 - Curly
+--------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  DETAILS: Original by Eliza Wyatt.

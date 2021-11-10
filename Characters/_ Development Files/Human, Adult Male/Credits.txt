@@ -1,0 +1,9 @@
+CC-By-SA 3.0
+GPL 3.0
+
+ - Idle, Walking, Spellcasting, Slashing, and Hurt animations by Stephen Challener (aka Redshrike)
+ - Shooting and Thrusting animations by Johannes Sjölund
+ - Jump animation by Durrani (artist) and MuffinElZango (contributer)
+ - Jump animation fixes and grid alignment by BenCreates
+ - Minor edits and fixes by Eliza Wyatt
+ - Recolors by Eliza Wyatts
