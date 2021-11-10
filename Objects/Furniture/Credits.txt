@@ -18,11 +18,18 @@ Seating
 
 Misc
 ---------
+ * Card Table by Eliza Wyatt.
  * Cauldron by Lanea Zimmerman. Adjustments and recolors by Eliza Wyatt.
+ * Copy Machine & animated Copy Light by Eliza Wyatt.
+ * Desk, Ornate by Eliza Wyatt, with elements from Cabinets and Cupboards by Lanea Zimmerman.
  * Plumbing by Lanea Zimmerman. Adjustments and recolors by Eliza Wyatt.
+ * Shopping Cart by Eliza Wyatt.
+ * Sink by Eliza Wyatt.
  * Tables by Lanea Zimmerman. Adjustments and recolors by Eliza Wyatt.
  * Countertops by Lanea Zimmerman. Adjustments and recolors by Eliza Wyatt.
  * Decorative furniture by Lanea Zimmerman and BlueCarrot16. Adjustments and recolors by Eliza Wyatt.
+ * Tv, Widescreen by Eliza Wyatt.
+ * Water Cooler by Eliza Wyatt.
 
 
 

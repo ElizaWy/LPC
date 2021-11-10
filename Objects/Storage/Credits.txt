@@ -1,2 +1,7 @@
-Base barrels, buckets, cabinets, and chests by Lanea Zimmerman.
-Variants and recolors by Eliza Wyatt.
+ 
+ * Barrels by Lanea Zimmerman. Recolors by Eliza Wyatt.
+ * Bins by Eliza Wyatt.
+ * Buckets by Lanea Zimmerman. Recolors by Eliza Wyatt.
+ * Cabinets by Lanea Zimmerman. Recolors by Eliza Wyatt.
+ * Chests by Lanea Zimmerman. Variants and recolors by Eliza Wyatt.
+ * Mailboxes by Eliza Wyatt.
