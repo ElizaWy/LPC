@@ -1,8 +1,0 @@
-CC-By-SA 3.0
-GPL 3.0
-
- - Idle, Walking, Spellcasting, Slashing, and Hurt animations by Stephen Challener (aka Redshrike)
- - Muscular base idle and walk by Dalonedrau
- - Edits and fixes on the Muscular idle and walk cycles by Eliza Wyatt
- - Added Muscular Swing and Hurt animations by Eliza Wyatt
- - Recolors by Eliza Wyatt

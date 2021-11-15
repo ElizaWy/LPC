@@ -1,7 +1,0 @@
-CC-By-SA 3.0
-GPL 3.0
-
- - Standing child template by Kheftel
- - Walk animation by Nila
- - Minor fixes and edits by Eliza Wyatt
- - Recolors by Eliza Wyatt
