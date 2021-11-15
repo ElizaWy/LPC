@@ -3,3 +3,6 @@
 
 # Ignore Characters folder for the moment
 *Characters/
+*Nature/
+*Terrain/
+*Credits Template.txt

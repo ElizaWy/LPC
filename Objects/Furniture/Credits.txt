@@ -1,39 +1,92 @@
 
+Cauldron
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm)
+  SOURCE: https://opengameart.org/content/lpc-dungeon-elements
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Adjustments and recolors by Eliza Wyatt.
 
-Bedding
----------
- * All headboards originally made by Lanea Zimmerman. Adjustments, resizing to different beds, and recolors by Eliza Wyatt.
- * Mattresses by Eliza Wyatt, with some elements (children's pillow) by Lanea Zimmerman.
- * Bed bases by Lanea Zimmerman and BlueCarrot16. Adjustments, resizes, and recolors by Eliza Wyatt.
+Clock, Grandfather
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm)
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman.
+  DETAILS: Original by Lanea Zimmerman. Recolors and animation by Eliza Wyatt.
 
-Seating
----------
- * Bar stool original by Lanea Zimmerman. Adjustments and recolors by Eliza Wyatt.
- * Dining chairs by Lanea Zimmerman and BlueCarrot16. Adjustments and recolors by Eliza Wyatt.
- * Sofa Chairs by Lanea Zimmerman and BlueCarrot16. Adjustments and recolors by Eliza Wyatt.
- * Ottomans by Lanea Zimmerman and BlueCarrot16. Adjustments and recolors by Eliza Wyatt.
- * Casual sofas by Lanea Zimmerman and BlueCarrot16. Side and back views by Eliza Wyatt. Adjustments and recolors by Eliza Wyatt.
- * Formal sofas by Lanea Zimmerman and BlueCarrot16. Adjustments and recolors by Eliza Wyatt.
- * Front-facing throne by Lanea Zimmerman. Side and back views by Eliza Wyatt. Recolors by Eliza Wyatt.
+Copy Machine & Copy Machine Light Animation
+-------------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  DETAILS: Original by Eliza Wyatt.
 
-Misc
----------
- * Card Table by Eliza Wyatt.
- * Cauldron by Lanea Zimmerman. Adjustments and recolors by Eliza Wyatt.
- * Copy Machine & animated Copy Light by Eliza Wyatt.
- * Desk, Ornate by Eliza Wyatt, with elements from Cabinets and Cupboards by Lanea Zimmerman.
- * Plumbing by Lanea Zimmerman. Adjustments and recolors by Eliza Wyatt.
- * Shopping Cart by Eliza Wyatt.
- * Sink by Eliza Wyatt.
- * Tables by Lanea Zimmerman. Adjustments and recolors by Eliza Wyatt.
- * Countertops by Lanea Zimmerman. Adjustments and recolors by Eliza Wyatt.
- * Decorative furniture by Lanea Zimmerman and BlueCarrot16. Adjustments and recolors by Eliza Wyatt.
- * Tv, Widescreen by Eliza Wyatt.
- * Water Cooler by Eliza Wyatt.
+Countertops
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Adjustments and recolors by Eliza Wyatt.
 
+Desk, Ornate 
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: CC-by-SA 3, DRM waived by [artist]
+  DETAILS: Desk made by Eliza Wyatt, using elements from Lanea Zimmerman's cabinets and countertops.
 
+Shopping Cart
+-------------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  DETAILS: Original by Eliza Wyatt.
 
-Links:
-https://opengameart.org/content/lpc-upholstery
-https://opengameart.org/content/lpc-interior-castle-tiles
-https://opengameart.org/content/lpc-dungeon-elements
+Sink, Countertop
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: CC-by-SA 3, DRM waived by [artist]
+  DETAILS: Original by Lanea Zimmerman. Adjustments and recolors by Eliza Wyatt.
+
+Sink, Pedestal 
+-------------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  DETAILS: Original by Eliza Wyatt.
+
+Standing Screens
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman and BlueCarrot16. Recolors by Eliza Wyatt.
+
+Tables, Card
+-------------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  DETAILS: Original by Eliza Wyatt.
+
+Tables, Ornate Wood
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Adjustments and recolors by Eliza Wyatt.
+
+Tables, Rough Wood
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-dungeon-elements
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Adjustments and recolors by Eliza Wyatt.
+
+TV, Widescreen
+-------------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  DETAILS: Original by Eliza Wyatt.
+
+Water Cooler
+-------------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  DETAILS: Original by Eliza Wyatt.
