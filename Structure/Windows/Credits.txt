@@ -1,0 +1,30 @@
+
+
+Ornamental Windows A
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Blue and yellow glow and emission map by Eliza Wyatt. Recolors by Eliza Wyatt.
+
+Ornamental Windows B
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-arabic-elements
+  SOURCE: https://opengameart.org/content/lpc-adobe-building-set
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Blue and yellow glow and emission map by Eliza Wyatt. Recolors by Eliza Wyatt.
+
+Stone Windows A
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Blue and yellow glow and emission map by Eliza Wyatt. Recolors by Eliza Wyatt.
+
+Window Awnings A
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-adobe-building-set
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
