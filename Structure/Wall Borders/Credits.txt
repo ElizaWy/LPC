@@ -1,0 +1,41 @@
+
+Decorative Border A
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Expanded for tiling and recolored by Eliza Wyatt.
+
+Formal Crown Molding
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Expanded for tiling and recolored by Eliza Wyatt.
+
+Pillar Crown Molding
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Expanded for tiling and recolored by Eliza Wyatt.
+
+Plain Edged Border
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Expanded for tiling and recolored by Eliza Wyatt.
+
+Plain Smooth Border
+-------------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  DETAILS: Original by Eliza Wyatt.
+
+Textured Wood Border
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Expanded for tiling and recolored by Eliza Wyatt.
