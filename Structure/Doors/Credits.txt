@@ -1,26 +1,42 @@
 
-12-Panel Door
---------------
- * Original 32x48px design and animation by Lanea Zimmerman. Converted to 15 panel door by Eliza Wyatt. Centered 2-tile wide conversions by Eliza Wyatt. Recolors by Eliza Wyatt.
+12-Panel Door, 15-Panel Door
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-animated-doors
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original design and animation by Lanea Zimmerman. Converted to 15 panel door by Eliza Wyatt. Recolors by Eliza Wyatt.
 
 Doorframe A
---------------
- * Original 32x48px doorframe by Lanea Zimmerman. Recolors and adjustments by Eliza Wyatt.
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original doorframe by Lanea Zimmerman. Recolors and adjustments by Eliza Wyatt.
 
 Doorframe B
--------------
- * Original doorway from the Arabic Elements pack, by Lanea Zimmerman. Recolors and adjustments by Eliza Wyatt.
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-arabic-elements
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original doorway by Lanea Zimmerman. Recolors and adjustments by Eliza Wyatt.
 
 Prison Door
---------------
- * Original design and animation by Lanea Zimmerman. Recolors by Eliza Wyatt.
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-animated-doors
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original design and animation by Lanea Zimmerman. Recolors by Eliza Wyatt.
 
-64x64 Arched Doorway
---------------
- * Original arch from the Interior Castle Tiles by Lanea Zimmerman. Recolors by Eliza Wyatt.
- * Original door design from the Interior Castle Tiles by Lanea Zimmerman. Opening Animation by Eliza Wyatt. Recolors by Eliza Wyatt.
+Arched Doorway A
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
 
-Links:
-Animated Doors: https://opengameart.org/content/lpc-animated-doors (CC-by-SA 3, DRM waived)
-Interior Castle Tiles: https://opengameart.org/content/lpc-interior-castle-tiles (CC-by-SA 3, DRM waived)
-Arabic Elements: https://opengameart.org/content/lpc-arabic-elements (CC-by-SA 3, DRM waived)
+Arched Double Doors
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original door design by Lanea Zimmerman. Opening Animation by Eliza Wyatt. Recolors by Eliza Wyatt.
