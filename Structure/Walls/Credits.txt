@@ -1,0 +1,120 @@
+
+
+Adobe Brick Wall
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-adobe-building-set
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman.
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Adobe Stucco Wall
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-adobe-building-set
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman.
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Brick Wall A
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://lpc.opengameart.org/static/lpc-style-guide/assets.html
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman.
+  DETAILS: Extracted from Brick Wall Block Edging, by Lanea Zimmerman. Reconfigured and recolored by Eliza Wyatt.
+
+Brick Wall B
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://lpc.opengameart.org/static/lpc-style-guide/assets.html
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman.
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Brick Wall Block Edging
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://lpc.opengameart.org/static/lpc-style-guide/assets.html
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman.
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Diamond Wallpaper
+-------------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  DETAILS: Original by Eliza Wyatt
+
+Floral Wallpaper A
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman.
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Floral Wallpaper B
+-------------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  DETAILS: Original by Eliza Wyatt
+
+Grainy Plain Wall
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-arabic-elements
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman.
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Half-Wall Paneling A
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman.
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Jagged Stone Walls
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman.
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Molding
+-------------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  DETAILS: Original by Eliza Wyatt
+
+Painted Walls
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman.
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Panels A
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-arabic-elements
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman.
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Siding, Plain
+-------------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  DETAILS: Original by Eliza Wyatt
+
+Striped Wallpaper A
+-------------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  DETAILS: Original by Eliza Wyatt
+
+Striped Wallpaper B
+-------------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  DETAILS: Original by Eliza Wyatt
+
+Striped Wallpaper C
+-------------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  DETAILS: Original by Eliza Wyatt
