@@ -1,0 +1,15 @@
+
+
+Sign Icons A
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://lpc.opengameart.org/static/lpc-style-guide/assets.html
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Inn, Potion, Sword icons by Lanea Zimmerman, recolored by Eliza Wyatt. Pub and Shield icons by Eliza Wyatt
+
+Sign Backgrounds A
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://lpc.opengameart.org/static/lpc-style-guide/assets.html
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
