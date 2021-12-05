@@ -1,0 +1,38 @@
+
+
+Brick House A
+-------------------
+  ARTIST(S): Lanea Zimmerman, Eliza Wyatt
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  ASSETS USED: 
+	- Walls: Brick Wall Block Edging
+	- Door: Doorframe A (32x48px)
+	- Window: Stone Windows A
+	- Steps: Short Steps A
+	- Chimney: Brick Chimney A
+	- Roof: Hipped Shingle Roof A, Flat Shingle Roof A
+
+
+Brick House B
+-------------------
+  ARTIST(S): Lanea Zimmerman, Eliza Wyatt
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  NOTE: Some details hand-painted by Eliza Wyatt
+  ASSETS USED: 
+	- Walls: Brick Wall A
+	- Door: Doorframe A (32x64px)
+	- Window: Ornamental Windows A
+	- Roof: Gable Shingle Roof A
+
+
+Paneled House A
+-------------------
+  ARTIST(S): Lanea Zimmerman, Eliza Wyatt
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  NOTE: Some details hand-painted by Eliza Wyatt
+  ASSETS USED: 
+	- Walls: Siding, Plain
+	- Door: Doorframe A (32x48px)
+	- Window: Ornamental Windows A (resized)
+	- Roof: Gable Shingle Roof A
+	- Steps: Short Steps A
