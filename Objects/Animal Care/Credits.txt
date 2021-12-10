@@ -8,7 +8,8 @@ Hay & Straw
 
 Troughs, Water
 -------------------
-  ARTIST(S): BlueCarrot16
+  ARTIST(S): BlueCarrot16, Eliza Wyatt, YuriNikolai
   SOURCE: https://opengameart.org/content/lpc-blacksmith
+  SOURCE: https://opengameart.org/content/lpc-troughs-expanded
   LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
-  DETAILS: Original by BlueCarrot16. Edited and recolored by Eliza Wyatt.
+  DETAILS: Original by BlueCarrot. Edited and recolored by Eliza Wyatt. Half-full version added by YuriNikolai.
