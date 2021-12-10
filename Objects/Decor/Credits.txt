@@ -1,4 +1,11 @@
 
+Christmas Tree
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://lpc.opengameart.org/static/lpc-style-guide/assets.html
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman.
+  DETAILS: Original tree by Lanea Zimmerman. Recolors, animation, and festive cheer by Eliza Wyatt.
+
 Clock, Grandfather
 -------------------
   ARTIST(S): Lanea Zimmerman (Sharm)
@@ -26,6 +33,12 @@ Planters
   SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
   LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
   DETAILS: Original by Lanea Zimmerman. Recolored by Eliza Wyatt.
+
+Presents
+-------------------
+  ARTIST(S): Eliza Wyatt, Lanea Zimmerman (Sharm)
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  DETAILS: Original by Eliza Wyatt. Snowflake pattern on 5th present by Lanea Zimmerman.
 
 Standing Screens
 -------------------
