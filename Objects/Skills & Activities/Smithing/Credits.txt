@@ -1,0 +1,85 @@
+
+
+Anvils
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-blacksmith
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot. Recolored by Eliza Wyatt.
+
+Bellows
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-blacksmith
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot. Recolored by Eliza Wyatt.
+
+Coal Piles
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-blacksmith
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot. Recolored by Eliza Wyatt.
+
+Forge A
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-blacksmith
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot. Stone reworked, coal added, and recolored by Eliza Wyatt.
+
+Forge B
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-blacksmith
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot. Stone reworked, coal added, and recolored by Eliza Wyatt.
+
+Furnace A
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-blacksmith
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot. Stone reworked, coal added, and recolored by Eliza Wyatt.
+
+Furnace B
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-blacksmith
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot. Stone reworked, coal added, and recolored by Eliza Wyatt.
+
+Grindstone
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-blacksmith
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot. Recolored by Eliza Wyatt.
+
+Smelter
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-blacksmith
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot. Stone reworked and recolored by Eliza Wyatt.
+
+Smith's Tools
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-blacksmith
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot. Recolored by Eliza Wyatt.
+
+Troughs, Oil
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-blacksmith
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot. Edited and recolored by Eliza Wyatt.
+
+Wire Drawing Bench
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-blacksmith
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot. Recolored by Eliza Wyatt.

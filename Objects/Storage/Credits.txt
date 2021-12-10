@@ -6,6 +6,13 @@ Barrels
   LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
   DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
 
+Baskets
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-tailor
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot16. Fabric rolls removed and back filled in by Eliza Wyatt. Recolors by Eliza Wyatt.
+
 Bins
 -------------------
   ARTIST(S): Eliza Wyatt
@@ -33,8 +40,9 @@ Chests
   LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
   DETAILS: Original large chests by Lanea Zimmerman. Smaller chests and recolors by Eliza Wyatt.
 
-Mailboxes
+Shelf A
 -------------------
-  ARTIST(S): Eliza Wyatt
-  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
-  DETAILS: Original by Eliza Wyatt.
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-woodshop
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot16. Recolors by Eliza Wyatt.

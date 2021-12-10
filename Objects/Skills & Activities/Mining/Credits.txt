@@ -1,0 +1,57 @@
+
+
+Alloys
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-ore-and-forge
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot. Recolored by Eliza Wyatt.
+
+Coal
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-ore-and-forge
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot. Recolored by Eliza Wyatt.
+
+Copper
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-ore-and-forge
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot. Recolored by Eliza Wyatt.
+
+Gold
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-ore-and-forge
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot. Recolored by Eliza Wyatt.
+
+Iron
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-ore-and-forge
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot. Recolored by Eliza Wyatt.
+
+Silver
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-ore-and-forge
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot. Recolored by Eliza Wyatt.
+
+Stone
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-ore-and-forge
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot. Recolored by Eliza Wyatt.
+
+Tin
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-ore-and-forge
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot. Recolored by Eliza Wyatt.

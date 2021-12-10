@@ -1,0 +1,34 @@
+
+Cast Iron Stove A
+-------------------
+  ARTIST(S): Lanea Zimmerman (aka Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original design and fire animation by Lanea Zimmerman. Fire reflections and recolors by Eliza Wyatt. Stovetop burners by Eliza Wyatt.
+
+Cauldron
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm)
+  SOURCE: https://opengameart.org/content/lpc-dungeon-elements
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Adjustments and recolors by Eliza Wyatt.
+
+Kitchen Clutter A
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm)
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Recolored by Eliza Wyatt.
+
+Kitchen Clutter B
+-------------------
+  ARTIST(S): Hyptosis
+  SOURCE: https://opengameart.org/content/mage-city-arcanos
+  LICENSE: CC0
+  DETAILS: Original by Hyptosis. Recolored by Eliza Wyatt.
+
+Kitchen Clutter C
+-------------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  DETAILS: Original by Eliza Wyatt.

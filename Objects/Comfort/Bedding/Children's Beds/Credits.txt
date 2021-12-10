@@ -1,0 +1,22 @@
+
+
+Children's Beds
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman and BlueCarrot16. Adjustments and recolors by Eliza Wyatt.
+
+Children's Headboards
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  DETAILS: Original by Lanea Zimmerman. Resizes and Recolors by Eliza Wyatt.
+
+Children's Mattresses
+-------------------
+  ARTIST(S): Eliza Wyatt, Lanea Zimmerman (Sharm), BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: CC-by-SA 3, DRM waived by [artist]
+  DETAILS: Original mattresses by Eliza Wyatt. Pillows by Lanea Zimmerman and BlueCarrot16, edited and recolored by Eliza Wyatt.

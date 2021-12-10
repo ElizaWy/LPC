@@ -1,0 +1,42 @@
+
+Carpenter's Workbench
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-woodshop
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot16. Recolors by Eliza Wyatt.
+
+Carpentry Tools
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-woodshop
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot16. Recolors by Eliza Wyatt.
+
+Lumber
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-woodshop
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot16. Recolors by Eliza Wyatt.
+
+Sawdust
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-woodshop
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot16. Recolors by Eliza Wyatt.
+
+Sawhorses
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-woodshop
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot16. Shading edits and recolors by Eliza Wyatt.
+
+Shavehorses
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-woodshop
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot16. Structural edits and recolors by Eliza Wyatt.
