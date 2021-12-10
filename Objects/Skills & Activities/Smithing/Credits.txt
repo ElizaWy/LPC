@@ -76,7 +76,7 @@ Troughs, Oil
   SOURCE: https://opengameart.org/content/lpc-blacksmith
   SOURCE: https://opengameart.org/content/lpc-troughs-expanded
   LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
-  DETAILS: Original by BlueCarrot. Edited and recolored by Eliza Wyatt. Half-full version added by YuriNikolai.
+  DETAILS: Original by BlueCarrot. Edited and recolored by Eliza Wyatt. Half-full and empty versions added by YuriNikolai.
 
 Wire Drawing Bench
 -------------------
