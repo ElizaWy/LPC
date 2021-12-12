@@ -13,6 +13,14 @@ Cauldron
   LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
   DETAILS: Original by Lanea Zimmerman. Adjustments and recolors by Eliza Wyatt.
 
+Dishes
+-------------------
+  ARTIST(S): Richard Kettering (Jetrel), BlueCarrot16
+  SOURCE: https://opengameart.org/content/rpg-item-set
+  SOURCE: https://opengameart.org/content/lpc-meals
+  LICENSE: CC0
+  DETAILS: Original by Richard Kettering. Recolored by BlueCarrot16 and Eliza Wyatt.
+
 Kitchen Clutter A
 -------------------
   ARTIST(S): Lanea Zimmerman (Sharm)
