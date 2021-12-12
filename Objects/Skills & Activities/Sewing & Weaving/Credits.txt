@@ -1,22 +1,29 @@
 
 
+Dress Forms
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-tailor
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot16. Edited and recolored by Eliza Wyatt.
+
 Fabric Baskets
 -------------------
-  ARTIST(S): BlueCarrot16
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
   SOURCE: https://opengameart.org/content/lpc-tailor
   LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
   DETAILS: Original by BlueCarrot16. Edited and recolored by Eliza Wyatt.
 
 Fabric Rolls, Groups
 -------------------
-  ARTIST(S): BlueCarrot16
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
   SOURCE: https://opengameart.org/content/lpc-tailor
   LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
   DETAILS: Original by BlueCarrot16. Edited and recolored by Eliza Wyatt.
 
 Fabric Rolls
 -------------------
-  ARTIST(S): BlueCarrot16
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
   SOURCE: https://opengameart.org/content/lpc-tailor
   LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
   DETAILS: Original by BlueCarrot16. Edited and recolored by Eliza Wyatt.
@@ -37,7 +44,14 @@ Loom
 
 Sewing Machine
 -------------------
-  ARTIST(S): BlueCarrot16
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-tailor
+  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
+
+Sewing Tables
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
   SOURCE: https://opengameart.org/content/lpc-tailor
   LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
   DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
