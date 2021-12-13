@@ -1,95 +1,84 @@
 
-Acorn Squash
--------------------
-  ARTIST(S): BlueCarrot16, Eliza Wyatt
-  SOURCE: https://opengameart.org/content/lpc-meals
-  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
-  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
-
-Apples
--------------------
-  ARTIST(S): BlueCarrot16, Eliza Wyatt
-  SOURCE: https://opengameart.org/content/lpc-meals
-  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
-  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
-
-Bacon
--------------------
-  ARTIST(S): BlueCarrot16, Eliza Wyatt
-  SOURCE: https://opengameart.org/content/lpc-meals
-  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
-  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
-
-Barley
--------------------
-  ARTIST(S): BlueCarrot16, Eliza Wyatt
-  SOURCE: https://opengameart.org/content/lpc-meals
-  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
-  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
-
-Blueberries
--------------------
-  ARTIST(S): BlueCarrot16, Eliza Wyatt
-  SOURCE: https://opengameart.org/content/lpc-meals
-  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
-  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
-
-Bread
+Bread A
 -------------------
   ARTIST(S): Richard Kettering (Jetrel), BlueCarrot16, Eliza Wyatt
   SOURCE: https://opengameart.org/content/rpg-item-set
   SOURCE: https://opengameart.org/content/lpc-meals
+  SOURCE: https://opengameart.org/content/lpc-food
   LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
   DETAILS: Original by Richard Kettering (Jetrel). Recolored by BlueCarrot16 and Eliza Wyatt.
 
-Brussel Sprouts
+Bread B
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Edited and recolored by Eliza Wyatt.
+
+Bread C
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Edited and recolored by Eliza Wyatt.
+
+Butter
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Edited and recolored by Eliza Wyatt.
+
+Cakes
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Edited and recolored by Eliza Wyatt.
+
+Cheese A
+-------------------
+  ARTIST(S): Thekingphoenix, BlueCarrot16, Eliza Wyatt
+  SOURCE: http://opengameart.org/content/icons-food
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
+  DETAILS: Original by thekingphoenix. Recolored by BlueCarrot16 and Eliza Wyatt.
+
+Cheese B
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
+
+Eggs
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
+
+Fruit A
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-meals
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
+  DETAILS: Orange by Eliza Wyatt, other fruit and slices by BlueCarrot16. Recolored by Eliza Wyatt.
+
+Grains, Rice, Noodles
 -------------------
   ARTIST(S): BlueCarrot16, Eliza Wyatt
   SOURCE: https://opengameart.org/content/lpc-meals
   LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
   DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
 
-Burger Patties
+Hamburgers
 -------------------
   ARTIST(S): BlueCarrot16, Eliza Wyatt
   SOURCE: https://opengameart.org/content/lpc-meals
   LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
   DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
 
-Celery
--------------------
-  ARTIST(S): BlueCarrot16, Eliza Wyatt
-  SOURCE: https://opengameart.org/content/lpc-meals
-  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
-  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
-
-Hamburger Buns
--------------------
-  ARTIST(S): BlueCarrot16, Eliza Wyatt
-  SOURCE: https://opengameart.org/content/lpc-meals
-  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
-  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
-
-Kaiser Buns
--------------------
-  ARTIST(S): BlueCarrot16, Eliza Wyatt
-  SOURCE: https://opengameart.org/content/lpc-meals
-  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
-  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
-
-Kiwi
--------------------
-  ARTIST(S): BlueCarrot16, Eliza Wyatt
-  SOURCE: https://opengameart.org/content/lpc-meals
-  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
-  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
-
-Lamb Chops
--------------------
-  ARTIST(S): BlueCarrot16, Eliza Wyatt
-  SOURCE: https://opengameart.org/content/lpc-meals
-  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
-  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
 
 Lettuce
 -------------------
@@ -99,52 +88,39 @@ Lettuce
   LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
   DETAILS: Original by Richard Kettering (Jetrel). Recolored by BlueCarrot16 and Eliza Wyatt.
 
-Meatballs
+Meats A
 -------------------
   ARTIST(S): BlueCarrot16, Eliza Wyatt
   SOURCE: https://opengameart.org/content/lpc-meals
   LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
   DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
 
-Noodles
+Meats B
 -------------------
   ARTIST(S): BlueCarrot16, Eliza Wyatt
-  SOURCE: https://opengameart.org/content/lpc-meals
+  SOURCE: https://opengameart.org/content/lpc-food
   LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
   DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
 
-Onions
+Mushrooms
 -------------------
   ARTIST(S): BlueCarrot16, Eliza Wyatt
-  SOURCE: https://opengameart.org/content/lpc-meals
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
+  NOTES: From left to right: Shiitake, button mushroom, oyster mushroom, sulfur shelf mushrooms, maitake mushroom, chanterelle mushroom, portobello mushroom, king trumpet mushroom, black morel mushroom, enoki mushroom.
+
+Pancakes & Waffles
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-food
   LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
   DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
 
-Oranges
+Pies
 -------------------
   ARTIST(S): BlueCarrot16, Eliza Wyatt
-  SOURCE: https://opengameart.org/content/lpc-meals
-  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
-  DETAILS: Orange by Eliza Wyatt. Orange slices by BlueCarrot16, recolored by Eliza Wyatt.
-
-Pineapples
--------------------
-  ARTIST(S): BlueCarrot16, Eliza Wyatt
-  SOURCE: https://opengameart.org/content/lpc-meals
-  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
-  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
-
-Pork Chops
--------------------
-  ARTIST(S): BlueCarrot16, Eliza Wyatt
-  SOURCE: https://opengameart.org/content/lpc-meals
-  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
-  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
-
-Purple Cabbages
--------------------
-  ARTIST(S): BlueCarrot16, Eliza Wyatt
-  SOURCE: https://opengameart.org/content/lpc-meals
+  SOURCE: https://opengameart.org/content/lpc-food
   LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
   DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
 
@@ -155,17 +131,10 @@ Quiche
   LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
   DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
 
-Rib Roasts
+Seafood A
 -------------------
   ARTIST(S): BlueCarrot16, Eliza Wyatt
-  SOURCE: https://opengameart.org/content/lpc-meals
-  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
-  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
-
-Rice
--------------------
-  ARTIST(S): BlueCarrot16, Eliza Wyatt
-  SOURCE: https://opengameart.org/content/lpc-meals
+  SOURCE: https://opengameart.org/content/lpc-food
   LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
   DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
 
@@ -176,14 +145,15 @@ Soups
   LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
   DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
 
-Strawberries
+Tortillas
 -------------------
   ARTIST(S): BlueCarrot16, Eliza Wyatt
   SOURCE: https://opengameart.org/content/lpc-meals
+  SOURCE: https://opengameart.org/content/lpc-food
   LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
   DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
 
-Tortillas
+Vegetables A
 -------------------
   ARTIST(S): BlueCarrot16, Eliza Wyatt
   SOURCE: https://opengameart.org/content/lpc-meals

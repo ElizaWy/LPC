@@ -15,10 +15,10 @@ Cauldron
 
 Dishes
 -------------------
-  ARTIST(S): Richard Kettering (Jetrel), BlueCarrot16
+  ARTIST(S): Richard Kettering (Jetrel), BlueCarrot16, Eliza Wyatt
   SOURCE: https://opengameart.org/content/rpg-item-set
   SOURCE: https://opengameart.org/content/lpc-meals
-  LICENSE: CC0
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
   DETAILS: Original by Richard Kettering. Recolored by BlueCarrot16 and Eliza Wyatt.
 
 Kitchen Clutter A
