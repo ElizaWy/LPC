@@ -1,11 +1,9 @@
-Credits:
-
-Eliza Wyatt
-Lanea Zimmerman
-BlueCarrot16
-Hyptosis
-
-More detailed credits are listed in the subfolders!
-
-Updated files can be found here: https://github.com/ElizaWy/LPC
 I'm continuing to work on expanding the LPC set, and take requests/commissions at my Patreon: https://www.patreon.com/DeathsDarling
+
+To use this set in your game, use the following text in your credits:
+
+LPC Revised Assets
+----------------------
+  ARTISTS: Eliza Wyatt, Lanea Zimmerman (Sharm), BlueCarrot16, YuriNikolai
+  SOURCE: http://github.com/ElizaWy/LPC
+  LICENSE: CC-by-SA 3, DRM waived
