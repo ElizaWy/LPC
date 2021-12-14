@@ -79,15 +79,6 @@ Hamburgers
   LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
   DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
 
-
-Lettuce
--------------------
-  ARTIST(S): Richard Kettering (Jetrel), BlueCarrot16, Eliza Wyatt
-  SOURCE: https://opengameart.org/content/rpg-item-set
-  SOURCE: https://opengameart.org/content/lpc-meals
-  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
-  DETAILS: Original by Richard Kettering (Jetrel). Recolored by BlueCarrot16 and Eliza Wyatt.
-
 Meats A
 -------------------
   ARTIST(S): BlueCarrot16, Eliza Wyatt
@@ -159,3 +150,27 @@ Vegetables A
   SOURCE: https://opengameart.org/content/lpc-meals
   LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
   DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
+
+Vegetables B
+-------------------
+  ARTIST(S): Richard Kettering (Jetrel), BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/rpg-item-set
+  SOURCE: https://opengameart.org/content/lpc-food
+  SOURCE: https://opengameart.org/content/lpc-meals
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
+  DETAILS: Original by Richard Kettering (Jetrel). Recolored by BlueCarrot16 and Eliza Wyatt.
+
+Vegetables C
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
+  NOTES:
+    1st Row: golden berry, naranjilla, mixed chili peppers, kiwano melon, delicata squash, acorn squash, butternut squash, ornamental gourds, ornamental gourds, romain lettuce, radicchio, cardoon, lacinato kale, kale, red cabbage, green cabbage, bok choy, brussels sprouts
+    2nd Row: broccoli rabe, kohrabi, romanesco broccoli, chayote, pepino dulce, green beans, soybeans, black beans, chickpeas, kidney beans, black-eyed peas, pinto beans, navy beans, black lentils, green lentils, red lentils, yellow lentils, peanuts
+    3rd Row: lotus root, asperagus, agave, nori, fiddlehead, prickly pear cactus, spinach, leeks, rhubarb, okra, celery
+
+
+
+blackberries, raspberries, blueberries, cranberries, elderberies, mulberries, goosberries, red grapes, black grapes, purple grapes, green grapes,pineapple, kiwi, 
