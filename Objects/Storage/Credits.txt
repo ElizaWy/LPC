@@ -42,10 +42,10 @@ Chests
 
 Shelf A
 -------------------
-  ARTIST(S): BlueCarrot16
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
   SOURCE: https://opengameart.org/content/lpc-woodshop
   LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
-  DETAILS: Original by BlueCarrot16. Recolors by Eliza Wyatt.
+  DETAILS: Original single shelf by BlueCarrot16. Expanded to be modular and recolored by Eliza Wyatt.
 
 Troughs
 -------------------
