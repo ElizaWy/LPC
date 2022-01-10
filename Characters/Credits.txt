@@ -22,8 +22,8 @@ Body - Feminine, Thin
   DETAILS: Original design by Stephen Challener. Edits and recolors by Eliza Wyatt.
   NOTES:
 	Idle Animation - Design by Stephen Challener. Animated idle by Eliza Wyatt.
-	Sitting Frames - Original by Eliza Wyatt
 	Walking Animation - Base design by Stephen Challener. Edited by Eliza Wyatt.
+	Sitting Frames - Original by Eliza Wyatt
 
 
 Body - Masculine, Broad
@@ -34,8 +34,8 @@ Body - Masculine, Broad
   DETAILS: Original design by Stephen Challener. Edits and recolors by Eliza Wyatt.
   NOTES:
 	Idle Animation - Design by Stephen Challener. Animated idle by Eliza Wyatt.
-	Sitting Frames - Original by Eliza Wyatt
 	Walking Animation - Base design by Stephen Challener. Edited by Eliza Wyatt.
+	Sitting Frames - Original by Eliza Wyatt
 
 
 Body - Masculine, Thin
@@ -46,5 +46,6 @@ Body - Masculine, Thin
   DETAILS: Originally the Feminine, Thin body by Stephen Challener. Altered by Eliza Wyatt. Edits and recolors by Eliza Wyatt.
   NOTES:
 	Idle Animation - Design by Stephen Challener. Animated idle by Eliza Wyatt.
-	Sitting Frames - Original by Eliza Wyatt
 	Walking Animation - Base design by Stephen Challener. Edited by Eliza Wyatt.
+	Emotes Frames - Original by Eliza Wyatt
+	Sitting Frames - Original by Eliza Wyatt
