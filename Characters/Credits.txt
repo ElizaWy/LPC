@@ -1,0 +1,50 @@
+
+
+Adult Head - Feminine
+-------------------
+  ARTIST(S): Stephen Challener (Redshrike), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+  LICENSE: OGA-by
+  DETAILS: Original by Stephen Challener. Edited to be smaller and recolored by Eliza Wyatt.
+
+Adult Head - Masculine
+-------------------
+  ARTIST(S): Stephen Challener (Redshrike), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+  LICENSE: OGA-by
+  DETAILS: Original by Stephen Challener. Edited to be smaller and recolored by Eliza Wyatt.
+
+Body - Feminine, Thin
+-------------------
+  ARTIST(S): Stephen Challener (Redshrike), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+  LICENSE: OGA-by
+  DETAILS: Original design by Stephen Challener. Edits and recolors by Eliza Wyatt.
+  NOTES:
+	Idle Animation - Design by Stephen Challener. Animated idle by Eliza Wyatt.
+	Sitting Frames - Original by Eliza Wyatt
+	Walking Animation - Base design by Stephen Challener. Edited by Eliza Wyatt.
+
+
+Body - Masculine, Broad
+-------------------
+  ARTIST(S): Stephen Challener (Redshrike), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+  LICENSE: OGA-by
+  DETAILS: Original design by Stephen Challener. Edits and recolors by Eliza Wyatt.
+  NOTES:
+	Idle Animation - Design by Stephen Challener. Animated idle by Eliza Wyatt.
+	Sitting Frames - Original by Eliza Wyatt
+	Walking Animation - Base design by Stephen Challener. Edited by Eliza Wyatt.
+
+
+Body - Masculine, Thin
+-------------------
+  ARTIST(S): Stephen Challener (Redshrike), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+  LICENSE: OGA-by
+  DETAILS: Originally the Feminine, Thin body by Stephen Challener. Altered by Eliza Wyatt. Edits and recolors by Eliza Wyatt.
+  NOTES:
+	Idle Animation - Design by Stephen Challener. Animated idle by Eliza Wyatt.
+	Sitting Frames - Original by Eliza Wyatt
+	Walking Animation - Base design by Stephen Challener. Edited by Eliza Wyatt.
