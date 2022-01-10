@@ -8,11 +8,13 @@
 *Characters/Head Accessories
 
 # Ignore folders for Work-In-Progress categories for the moment
-*_Packs/
-*Animals/
-*FX/
-*Nature/
-*UI/
+/Animals/
+/FX/
+/Nature/
+/UI/
+
+# Packs released on other sites (namely OpenGameArt.org)
+/_Packs/
 
 # Ignore my template folders
 *Credits Template.txt
