@@ -1,10 +1,18 @@
 # Remove all Aseprite files
 *.aseprite
 
+# Characters/ is in-progress! Showing limited options as we finalize animations
+*Characters/_ Development Files
+*Characters/Body
+*Characters/Clothing
+*Characters/Hair (adult)
+*Characters/Head (adult)
+*Characters/Head (child)
+*Characters/Head Accessories
+
 # Ignore folders for Work-In-Progress categories for the moment
 *_Packs/
 *Animals/
-*Characters/
 *FX/
 *Nature/
 *UI/
