@@ -21,8 +21,8 @@ Body - Feminine, Thin
   LICENSE: OGA-by
   DETAILS: Original design by Stephen Challener. Edits and recolors by Eliza Wyatt.
   NOTES:
-	Idle Animation - Design by Stephen Challener. Animated idle by Eliza Wyatt.
-	Walking Animation - Base design by Stephen Challener. Edited by Eliza Wyatt.
+	Idle Animation - Original static idle by Stephen Challener. Animated idle by Eliza Wyatt.
+	Walking Animation - Original by Stephen Challener. Edited by Eliza Wyatt.
 	Sitting Frames - Original by Eliza Wyatt
 
 
@@ -33,8 +33,8 @@ Body - Masculine, Broad
   LICENSE: OGA-by
   DETAILS: Original design by Stephen Challener. Edits and recolors by Eliza Wyatt.
   NOTES:
-	Idle Animation - Design by Stephen Challener. Animated idle by Eliza Wyatt.
-	Walking Animation - Base design by Stephen Challener. Edited by Eliza Wyatt.
+	Idle Animation - Original static idle by Stephen Challener. Animated idle by Eliza Wyatt.
+	Walking Animation - Original by Stephen Challener. Edited by Eliza Wyatt.
 	Sitting Frames - Original by Eliza Wyatt
 
 
@@ -46,8 +46,9 @@ Body - Masculine, Thin
   LICENSE: OGA-by
   DETAILS: Originally the Feminine, Thin body by Stephen Challener. Altered by Eliza Wyatt. Edits and recolors by Eliza Wyatt.
   NOTES:
-	Idle Animation - Design by Stephen Challener. Animated idle by Eliza Wyatt.
-	Walking Animation - Base design by Stephen Challener. Edited by Eliza Wyatt.
+	Idle Animation - Original static idle by Stephen Challener. Animated idle by Eliza Wyatt.
+	Walking Animation - Original by Stephen Challener. Edited by Eliza Wyatt.
+	Running Animation - Original by Eliza Wyatt.
 	Jumping Animation - Original by Durrani. Edited and recolored by Eliza Wyatt and BenCreating.
 	Emotes Frames - Original by Eliza Wyatt
 	Sitting Frames - Original by Eliza Wyatt
