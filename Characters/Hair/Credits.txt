@@ -1,0 +1,121 @@
+
+Medium 01 - Page
+--------------
+  ARTIST(S): Johannes Sjölund (Wulax), Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+  LICENSE: OGA-by
+  DETAILS: Original by Johannes Sjölund. Edited, animated, and recolored by Eliza Wyatt.
+
+Medium 02 - Curly
+--------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: OGA-by
+  DETAILS: Original by Eliza Wyatt.
+
+Medium 03 - Idol
+--------------
+  ARTIST(S): Thecilekli, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-korean-idol-hairstyle-male-with-12-colors
+  LICENSE: OGA-by
+  DETAILS: Original CC0 by Thecilekli. Edited, animated, and recolored by Eliza Wyatt.
+
+Medium 04 - Bangs & Bun
+--------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-hair
+  LICENSE: OGA-by
+  DETAILS: Original CC0 by BlueCarrot16. Edited, animated, and recolored by Eliza Wyatt.
+
+Medium 05 - Cornrows
+--------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-hair
+  LICENSE: OGA-by
+  DETAILS: Original CC0 by BlueCarrot16. Edited, animated, and recolored by Eliza Wyatt.
+
+Medium 06 - Dreadlocks
+--------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-hair
+  LICENSE: OGA-by
+  DETAILS: Original "Short Dreadlocks" CC0 by BlueCarrot16. Edited, animated, and recolored by Eliza Wyatt.
+
+Medium 07 - Bob, Side Part
+--------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-hair
+  LICENSE: OGA-by
+  DETAILS: Original CC0 by Thecilekli. Touchups by BlueCarrot16. Edited, animated, and recolored by Eliza Wyatt.
+
+Medium 08 - Bob, Bangs
+--------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-hair
+  LICENSE: OGA-by
+  DETAILS: Original CC0 by BlueCarrot16. Edited, animated, and recolored by Eliza Wyatt.
+
+Medium 09 - Twists
+--------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-hair
+  LICENSE: OGA-by
+  DETAILS: Original CC0 by BlueCarrot16. Edited, animated, and recolored by Eliza Wyatt.
+
+Medium 10 - Twists, Fade
+--------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-hair
+  LICENSE: OGA-by
+  DETAILS: Original CC0 by BlueCarrot16. Edited, animated, and recolored by Eliza Wyatt.
+
+Short 01 - Buzzcut
+--------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: OGA-by
+  DETAILS: Original by Eliza Wyatt.
+
+Short 02 - Parted
+--------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: OGA-by
+  DETAILS: Original by Eliza Wyatt.
+
+Short 03 - Curly
+--------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: OGA-by
+  DETAILS: Original by Eliza Wyatt.
+
+Short 04 - Cowlick
+--------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-hair
+  LICENSE: OGA-by
+  DETAILS: Original CC0 by BlueCarrot16. Edited, animated, and recolored by Eliza Wyatt.
+
+Short 05 - Natural
+--------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-hair
+  LICENSE: OGA-by
+  DETAILS: Original CC0 by BlueCarrot16. Edited, animated, and recolored by Eliza Wyatt.
+
+Short 06 - Balding
+--------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: OGA-by
+  DETAILS: Original by Eliza Wyatt.
+
+Short 07 - Flat Top
+--------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-hair
+  LICENSE: OGA-by
+  DETAILS: Original CC0 by BlueCarrot16. Edited, animated, and recolored by Eliza Wyatt.
+
+Short 08 - Flat Top, Fade
+--------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-hair
+  LICENSE: OGA-by
+  DETAILS: Original CC0 by BlueCarrot16. Edited, animated, and recolored by Eliza Wyatt.
