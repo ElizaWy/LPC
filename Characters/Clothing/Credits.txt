@@ -1,0 +1,66 @@
+
+--- TORSO ---
+
+Shirt 01 - Long Sleeve Shirt
+--------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: OGA-by
+  DETAILS: Original by Eliza Wyatt.
+
+Shirt 03 - Scoop Long Sleeve Shirt
+--------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: OGA-by
+  DETAILS: Original by Eliza Wyatt.
+
+--- LEGS ---
+
+Pants 01 - Hose
+--------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: OGA-by
+  DETAILS: Original by Eliza Wyatt.
+
+Pants 02 - Leggings
+--------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: OGA-by
+  DETAILS: Original by Eliza Wyatt.
+
+Pants 03 - Pants
+--------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: OGA-by
+  DETAILS: Original by Eliza Wyatt.
+
+Pants 04 - Cuffed Pants
+--------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: OGA-by
+  DETAILS: Original by Eliza Wyatt.
+
+Shorts 01 - Shorts
+--------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: OGA-by
+  DETAILS: Original by Eliza Wyatt.
+
+Shorts 02 - Short Shorts
+--------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: OGA-by
+  DETAILS: Original by Eliza Wyatt.
+
+--- FEET ---
+
+Socks 01 - Ankle Socks
+--------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: OGA-by
+  DETAILS: Original by Eliza Wyatt.
+
+Socks 02 - High Socks
+--------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: OGA-by
+  DETAILS: Original by Eliza Wyatt.
