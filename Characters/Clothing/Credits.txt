@@ -53,6 +53,18 @@ Shorts 02 - Short Shorts
 
 --- FEET ---
 
+Shoes 01 - Shoes
+--------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: OGA-by
+  DETAILS: Original by Eliza Wyatt.
+
+Shoes 02 - Boots
+--------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: OGA-by
+  DETAILS: Original by Eliza Wyatt.
+
 Socks 01 - Ankle Socks
 --------------
   ARTIST(S): Eliza Wyatt
