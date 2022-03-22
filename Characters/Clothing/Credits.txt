@@ -1,19 +1,25 @@
 
 --- TORSO ---
 
-Shirt 01 - Long Sleeve Shirt
+Shirt 01 - Longsleeve Shirt
 --------------
   ARTIST(S): Eliza Wyatt
   LICENSE: OGA-by
   DETAILS: Original by Eliza Wyatt.
 
-Shirt 03 - Scoop Long Sleeve Shirt
+Shirt 03 - Scoop Longsleeve Shirt
 --------------
   ARTIST(S): Eliza Wyatt
   LICENSE: OGA-by
   DETAILS: Original by Eliza Wyatt.
 
 Shirt 04 - T-Shirt
+--------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: OGA-by
+  DETAILS: Original by Eliza Wyatt.
+
+Shirt 06 - Scoop T-Shirt
 --------------
   ARTIST(S): Eliza Wyatt
   LICENSE: OGA-by
