@@ -13,6 +13,12 @@ Shirt 03 - Scoop Long Sleeve Shirt
   LICENSE: OGA-by
   DETAILS: Original by Eliza Wyatt.
 
+Shirt 04 - T-Shirt
+--------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: OGA-by
+  DETAILS: Original by Eliza Wyatt.
+
 --- LEGS ---
 
 Pants 01 - Hose
