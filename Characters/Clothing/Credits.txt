@@ -7,6 +7,12 @@ Shirt 01 - Longsleeve Shirt
   LICENSE: OGA-by
   DETAILS: Original by Eliza Wyatt.
 
+Shirt 02 - V-neck Longsleeve Shirt
+--------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: OGA-by
+  DETAILS: Original by Eliza Wyatt.
+
 Shirt 03 - Scoop Longsleeve Shirt
 --------------
   ARTIST(S): Eliza Wyatt
@@ -14,6 +20,12 @@ Shirt 03 - Scoop Longsleeve Shirt
   DETAILS: Original by Eliza Wyatt.
 
 Shirt 04 - T-Shirt
+--------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: OGA-by
+  DETAILS: Original by Eliza Wyatt.
+
+Shirt 05 - V-neck T-Shirt
 --------------
   ARTIST(S): Eliza Wyatt
   LICENSE: OGA-by
