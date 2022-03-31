@@ -1,5 +1,6 @@
-# Remove all Aseprite files
+# Remove all Aseprite and .ini files
 *.aseprite
+*.ini
 
 # Characters/ is in-progress! Showing limited options as we finalize animations
 *Characters/_ Development Files
