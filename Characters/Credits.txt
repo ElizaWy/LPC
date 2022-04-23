@@ -23,20 +23,11 @@ Body - Feminine, Thin
   NOTES:
 	Idle Animation - Original static idle by Stephen Challener. Animated idle by Eliza Wyatt.
 	Walking Animation - Original by Stephen Challener. Edited by Eliza Wyatt.
-	Sitting Frames - Original by Eliza Wyatt
-
-
-Body - Masculine, Broad
--------------------
-  ARTIST(S): Stephen Challener (Redshrike), Eliza Wyatt
-  SOURCE: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
-  LICENSE: OGA-by
-  DETAILS: Original design by Stephen Challener. Edits and recolors by Eliza Wyatt.
-  NOTES:
-	Idle Animation - Original static idle by Stephen Challener. Animated idle by Eliza Wyatt.
-	Walking Animation - Original by Stephen Challener. Edited by Eliza Wyatt.
-	Sitting Frames - Original by Eliza Wyatt
-
+	Running Animation - Original by Eliza Wyatt.
+	Jumping Animation - Original by Durrani. Edited and recolored by Eliza Wyatt and BenCreating.
+	Climbing Animation - Original by Eliza Wyatt.
+	Emote Frames - Original by Eliza Wyatt.
+	Sitting Frames - Original by Eliza Wyatt.
 
 Body - Masculine, Thin
 -------------------
@@ -50,5 +41,6 @@ Body - Masculine, Thin
 	Walking Animation - Original by Stephen Challener. Edited by Eliza Wyatt.
 	Running Animation - Original by Eliza Wyatt.
 	Jumping Animation - Original by Durrani. Edited and recolored by Eliza Wyatt and BenCreating.
-	Emotes Frames - Original by Eliza Wyatt
+	Climbing Animation - Original by Eliza Wyatt.
+	Emote Frames - Original by Eliza Wyatt
 	Sitting Frames - Original by Eliza Wyatt
