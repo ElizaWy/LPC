@@ -1,0 +1,14 @@
+
+_ Craftpix Graffiti Elements
+-------------------
+  ARTIST(S): Craftpix.net 2D Game Assets
+  SOURCE: https://opengameart.org/content/graffiti-constructor
+  LICENSE: OGA-by
+  DETAILS: Original by Craftpix.net
+
+Band, BeNice, CraftPix, DangerArea, GreenTeam, Loot, Shortway, Sport, Squad13
+-------------------
+  ARTIST(S): Craftpix.net 2D Game Assets
+  SOURCE: https://opengameart.org/content/graffiti-constructor
+  LICENSE: OGA-by
+  DETAILS: Original by Craftpix.net; recolored by Eliza Wyatt
