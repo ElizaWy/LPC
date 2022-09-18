@@ -1,0 +1,22 @@
+
+Splash
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+  NOTES: The splash can be used as a generic splash, but it's also configured to sandwich around the characters' feet, spawning a series of splashes as the character runs.
+
+
+Water Reflections
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+
+Water Ripple
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+  NOTES: The water-ripple is meant to sandwich around the characters' feet as they walk through water.
