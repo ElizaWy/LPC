@@ -8,12 +8,10 @@
 
 # Ignore folders for Work-In-Progress categories for the moment
 /Animals/
-/FX/
-/Nature/
-/UI/
 
 # Packs released on other sites (namely OpenGameArt.org)
-/_Packs/
+/_ Packs/
+/_ Discarded Drafts/
 
 # Ignore my template folders
 *Credits Template.txt
