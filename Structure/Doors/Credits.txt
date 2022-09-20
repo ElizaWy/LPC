@@ -1,42 +1,42 @@
 
 12-Panel Door, 15-Panel Door
 -------------------
-  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
   SOURCE: https://opengameart.org/content/lpc-animated-doors
-  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  LICENSE: OGA-BY 3.0
   DETAILS: Original design and animation by Lanea Zimmerman. Converted to 15 panel door by Eliza Wyatt. Recolors by Eliza Wyatt.
 
 Doorframe A
 -------------------
-  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
   SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
-  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  LICENSE: OGA-BY 3.0
   DETAILS: Original doorframe by Lanea Zimmerman. Recolors and adjustments by Eliza Wyatt.
 
 Doorframe B
 -------------------
-  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
   SOURCE: https://opengameart.org/content/lpc-arabic-elements
-  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  LICENSE: OGA-BY 3.0
   DETAILS: Original doorway by Lanea Zimmerman. Recolors and adjustments by Eliza Wyatt.
 
 Prison Door
 -------------------
-  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
   SOURCE: https://opengameart.org/content/lpc-animated-doors
-  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  LICENSE: OGA-BY 3.0
   DETAILS: Original design and animation by Lanea Zimmerman. Recolors by Eliza Wyatt.
 
 Arched Doorway A
 -------------------
-  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
   SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
-  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
 
 Arched Double Doors
 -------------------
-  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
   SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
-  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  LICENSE: OGA-BY 3.0
   DETAILS: Original door design by Lanea Zimmerman. Opening Animation by Eliza Wyatt. Recolors by Eliza Wyatt.

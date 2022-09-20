@@ -2,8 +2,8 @@
 
 Brick House A
 -------------------
-  ARTIST(S): Lanea Zimmerman, Eliza Wyatt
-  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
   ASSETS USED: 
 	- Walls: Brick Wall Block Edging
 	- Door: Doorframe A (32x48px)
@@ -15,8 +15,8 @@ Brick House A
 
 Brick House B
 -------------------
-  ARTIST(S): Lanea Zimmerman, Eliza Wyatt
-  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  ARTIST(S): Lanea Zimmerman, Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
   NOTE: Some details hand-painted by Eliza Wyatt
   ASSETS USED: 
 	- Walls: Brick Wall A
@@ -27,8 +27,8 @@ Brick House B
 
 Paneled House A
 -------------------
-  ARTIST(S): Lanea Zimmerman, Eliza Wyatt
-  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  ARTIST(S): Lanea Zimmerman, Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
   NOTE: Some details hand-painted by Eliza Wyatt
   ASSETS USED: 
 	- Walls: Siding, Plain
