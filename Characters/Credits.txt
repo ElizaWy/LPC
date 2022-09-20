@@ -2,30 +2,29 @@
 
 Adult Head - Feminine
 -------------------
-  ARTIST(S): Stephen Challener (Redshrike), Eliza Wyatt
+  ARTIST(S): Stephen Challener (Redshrike), Eliza Wyatt (DeathsDarling)
   SOURCE: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
-  LICENSE: OGA-by
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Stephen Challener. Edited to be smaller and recolored by Eliza Wyatt.
 
 Adult Head - Masculine
 -------------------
-  ARTIST(S): Stephen Challener (Redshrike), Eliza Wyatt
+  ARTIST(S): Stephen Challener (Redshrike), Eliza Wyatt (DeathsDarling)
   SOURCE: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
-  LICENSE: OGA-by
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Stephen Challener. Edited to be smaller and recolored by Eliza Wyatt.
 
 Adult Head - Elderly
 -------------------
-  ARTIST(S): Eliza Wyatt
-  SOURCE: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
-  LICENSE: OGA-by
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Eliza Wyatt.
 
 Body - Feminine, Thin
 -------------------
-  ARTIST(S): Stephen Challener (Redshrike), Eliza Wyatt
+  ARTIST(S): Stephen Challener (Redshrike), Eliza Wyatt (DeathsDarling)
   SOURCE: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
-  LICENSE: OGA-by
+  LICENSE: OGA-BY 3.0
   DETAILS: Original design by Stephen Challener. Edits and recolors by Eliza Wyatt.
   NOTES:
 	Idle Animation - Original static idle by Stephen Challener. Animated idle by Eliza Wyatt.
@@ -38,10 +37,10 @@ Body - Feminine, Thin
 
 Body - Masculine, Thin
 -------------------
-  ARTIST(S): Stephen Challener (Redshrike), Durrani, Eliza Wyatt, BenCreating
+  ARTIST(S): Stephen Challener (Redshrike), Durrani, Eliza Wyatt (DeathsDarling), BenCreating
   SOURCE: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
   SOURCE: https://opengameart.org/content/lpc-jump-expanded
-  LICENSE: OGA-by
+  LICENSE: OGA-BY 3.0
   DETAILS: Originally the Feminine, Thin body by Stephen Challener. Altered by Eliza Wyatt. Edits and recolors by Eliza Wyatt.
   NOTES:
 	Idle Animation - Original static idle by Stephen Challener. Animated idle by Eliza Wyatt.
@@ -51,3 +50,9 @@ Body - Masculine, Thin
 	Climbing Animation - Original by Eliza Wyatt.
 	Emote Frames - Original by Eliza Wyatt
 	Sitting Frames - Original by Eliza Wyatt
+
+Wings 01 - Feathered Wings
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt. Made to animate with the LPC body by Redshrike.

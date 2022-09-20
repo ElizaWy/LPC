@@ -1,102 +1,159 @@
 
+All clothing is based on the LPC body, by Stephen Challener (Redshrike).
+
+
+--- Accessories ---
+
+Neckwear 01 - Bowtie
+--------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+
+
 --- TORSO ---
 
 Shirt 01 - Longsleeve Shirt
 --------------
-  ARTIST(S): Eliza Wyatt
-  LICENSE: OGA-by
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Eliza Wyatt.
 
 Shirt 02 - V-neck Longsleeve Shirt
 --------------
-  ARTIST(S): Eliza Wyatt
-  LICENSE: OGA-by
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Eliza Wyatt.
 
 Shirt 03 - Scoop Longsleeve Shirt
 --------------
-  ARTIST(S): Eliza Wyatt
-  LICENSE: OGA-by
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Eliza Wyatt.
 
-Shirt 04 - T-Shirt
+Shirt 04 - T-shirt
 --------------
-  ARTIST(S): Eliza Wyatt
-  LICENSE: OGA-by
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Eliza Wyatt.
 
-Shirt 05 - V-neck T-Shirt
+Shirt 05 - V-neck T-shirt
 --------------
-  ARTIST(S): Eliza Wyatt
-  LICENSE: OGA-by
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Eliza Wyatt.
 
-Shirt 06 - Scoop T-Shirt
+Shirt 06 - Scoop T-shirt
 --------------
-  ARTIST(S): Eliza Wyatt
-  LICENSE: OGA-by
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Eliza Wyatt.
+
+Shirt 07 - Buttoned Longsleeve Shirt
+--------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Shirt 08 - Buttoned T-shirt
+--------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Shirt 09 - Polo
+--------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+
+
+--- TORSO 2 ---
+
+Accessory 01 - Suspenders
+--------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Sweater 01 - Cardigan
+--------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+
 
 --- LEGS ---
 
 Pants 01 - Hose
 --------------
-  ARTIST(S): Eliza Wyatt
-  LICENSE: OGA-by
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Eliza Wyatt.
 
 Pants 02 - Leggings
 --------------
-  ARTIST(S): Eliza Wyatt
-  LICENSE: OGA-by
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Eliza Wyatt.
 
 Pants 03 - Pants
 --------------
-  ARTIST(S): Eliza Wyatt
-  LICENSE: OGA-by
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Eliza Wyatt.
 
 Pants 04 - Cuffed Pants
 --------------
-  ARTIST(S): Eliza Wyatt
-  LICENSE: OGA-by
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Pants 05 - Overalls
+--------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Eliza Wyatt.
 
 Shorts 01 - Shorts
 --------------
-  ARTIST(S): Eliza Wyatt
-  LICENSE: OGA-by
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Eliza Wyatt.
 
 Shorts 02 - Short Shorts
 --------------
-  ARTIST(S): Eliza Wyatt
-  LICENSE: OGA-by
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Eliza Wyatt.
+
+
 
 --- FEET ---
 
 Shoes 01 - Shoes
 --------------
-  ARTIST(S): Eliza Wyatt
-  LICENSE: OGA-by
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Eliza Wyatt.
 
 Shoes 02 - Boots
 --------------
-  ARTIST(S): Eliza Wyatt
-  LICENSE: OGA-by
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Eliza Wyatt.
 
 Socks 01 - Ankle Socks
 --------------
-  ARTIST(S): Eliza Wyatt
-  LICENSE: OGA-by
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Eliza Wyatt.
 
 Socks 02 - High Socks
 --------------
-  ARTIST(S): Eliza Wyatt
-  LICENSE: OGA-by
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Eliza Wyatt.
