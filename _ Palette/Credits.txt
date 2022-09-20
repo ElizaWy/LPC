@@ -1,1 +1,6 @@
-Liberated Palette created by Eliza Wyatt.
+
+Liberated Palette
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original palette made for the LPC set, by Eliza Wyatt.
