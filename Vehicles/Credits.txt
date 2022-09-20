@@ -1,12 +1,12 @@
 
 Shopping Cart
 -------------------
-  ARTIST(S): Eliza Wyatt
-  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Eliza Wyatt.
 
 Wheelchair
 -------------------
-  ARTIST(S): Eliza Wyatt
-  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Eliza Wyatt.
