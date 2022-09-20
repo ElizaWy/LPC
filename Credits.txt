@@ -1,9 +1,33 @@
-I'm continuing to work on expanding the LPC set, and take requests/commissions at my Patreon: https://www.patreon.com/DeathsDarling
 
-To use this set in your game, use the following text in your credits:
+Hello and welcome to the LPC Revised collection!
 
-LPC Revised Assets
-----------------------
-  ARTISTS: Eliza Wyatt, Lanea Zimmerman (Sharm), BlueCarrot16, YuriNikolai
-  SOURCE: http://github.com/ElizaWy/LPC
-  LICENSE: CC-by-SA 3, DRM waived
+This graphics pack was lovingly hand drawn, curated, and compiled by the tireless efforts of artists in the Creative Commons community, and by the volunteers at OpenGameArt.org. We're happy to support game developers with free, open content!
+
+This pack is licensed OGA-BY 3.0. This means you can use these graphics free of charge, even for commercial use, so long as the artists are credited. I would also appreciate a link to this GitHub for future game devs!
+
+These are all the artists who've contributed to this project:
+
+	Eliza Wyatt (DeathsDarling)
+	Lanea Zimmerman (Sharm)
+	Stephen Challener (Redshrike)
+	Johannes Sjölund (Wulax)
+	BlueCarrot16
+	BenCreating
+	Durrani
+	YuriNikolai
+	Craftpix.net 2D Game Assets
+
+
+If you only wish to use a small part of the LPC Revised kit, every spritesheet is accompanied by an entry in its local credits file.
+
+Thank you for your time! If you'd like to support me, or see my other work, here's where you can find me:
+
+Patreon: https://www.patreon.com/DeathsDarling
+Twitter: https://twitter.com/DeathsDarling
+Twitch: https://www.twitch.tv/deathsdarlingart
+Itch.io: https://deathsdarling.itch.io/
+OpenGameArt.org: https://opengameart.org/users/deaths-darling
+
+
+---
+License Note: OGA-BY 3.0 is a license based on CC-BY 3.0 that removes that license's restriction on technical measures that prevent redistribution of a work. You can read more about it here: https://opengameart.org/content/oga-by-30-faq
