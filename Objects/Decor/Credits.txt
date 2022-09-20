@@ -1,48 +1,48 @@
 
 Christmas Tree
 -------------------
-  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt
-  SOURCE: https://lpc.opengameart.org/static/lpc-style-guide/assets.html
-  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman.
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+  LICENSE: OGA-BY 3.0
   DETAILS: Original tree by Lanea Zimmerman. Recolors, animation, and festive cheer by Eliza Wyatt.
 
 Clock, Grandfather
 -------------------
   ARTIST(S): Lanea Zimmerman (Sharm)
   SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
-  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman.
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Lanea Zimmerman. Recolors and animation by Eliza Wyatt.
 
 Games
 -------------------
   ARTIST(S): Lanea Zimmerman (Sharm)
   SOURCE: https://opengameart.org/content/lpc-dungeon-elements
-  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Lanea Zimmerman. Recolored by Eliza Wyatt.
 
 Dungeon Elements
 -------------------
   ARTIST(S): Lanea Zimmerman (Sharm)
   SOURCE: https://opengameart.org/content/lpc-dungeon-elements
-  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Lanea Zimmerman. Recolored by Eliza Wyatt.
 
 Planters
 -------------------
   ARTIST(S): Lanea Zimmerman (Sharm)
   SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
-  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Lanea Zimmerman. Recolored by Eliza Wyatt.
 
 Presents
 -------------------
-  ARTIST(S): Eliza Wyatt, Lanea Zimmerman (Sharm)
-  LICENSE: CC-by-SA 3, DRM waived by Eliza Wyatt
+  ARTIST(S): Eliza Wyatt (DeathsDarling), Lanea Zimmerman (Sharm)
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Eliza Wyatt. Snowflake pattern on 5th present by Lanea Zimmerman.
 
 Standing Screens
 -------------------
-  ARTIST(S): Lanea Zimmerman (Sharm), BlueCarrot16, Eliza Wyatt
+  ARTIST(S): Lanea Zimmerman (Sharm), BlueCarrot16, Eliza Wyatt (DeathsDarling)
   SOURCE: https://opengameart.org/content/lpc-upholstery
-  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Lanea Zimmerman and BlueCarrot16. Recolors by Eliza Wyatt.

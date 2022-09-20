@@ -2,14 +2,14 @@
 Hay & Straw
 -------------------
   ARTIST(S): Lanea Zimmerman (Sharm)
-  SOURCE: https://lpc.opengameart.org/static/lpc-style-guide/assets.html
-  LICENSE: CC-by-SA 3, DRM waived by Lanea Zimmerman
+  SOURCE: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by Lanea Zimmerman. Edited and recolored by Eliza Wyatt.
 
 Troughs, Water
 -------------------
-  ARTIST(S): BlueCarrot16, Eliza Wyatt, YuriNikolai
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling), YuriNikolai
   SOURCE: https://opengameart.org/content/lpc-blacksmith
   SOURCE: https://opengameart.org/content/lpc-troughs-expanded
-  LICENSE: CC-by-SA 3, DRM waived by BlueCarrot16
+  LICENSE: OGA-BY 3.0
   DETAILS: Original by BlueCarrot. Edited and recolored by Eliza Wyatt. Half-full and empty versions added by YuriNikolai.
