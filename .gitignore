@@ -3,7 +3,7 @@
 *.ini
 
 # Characters/ is in-progress! Showing limited options as we finalize animations
-*Characters/_ Development Files
+*Characters, Adults/_ Development Files
 
 # Ignore folders for Work-In-Progress categories for the moment
 /Animals/
