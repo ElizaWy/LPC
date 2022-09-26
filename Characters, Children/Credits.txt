@@ -1,0 +1,12 @@
+
+Child Base and heads
+-------------------
+  ARTIST(S): Kheftel, Nila122, Durrani, Eliza Wyatt (DeathsDarling), BenCreating
+  SOURCE: https://opengameart.org/content/lpc-child-standing-template
+  SOURCE: https://opengameart.org/content/lpc-children-walk-animation
+  SOURCE: https://opengameart.org/content/lpc-jump-expanded
+  LICENSE: OGA-BY 3.0
+  DETAILS: 
+	Idle Pose: Standing design by Kheftel, edited by Eliza Wyatt. 
+	Walk Animation: Made by Nila122, edited by Eliza Wyatt.
+	Jump Animation: Original for LPC male base by Durrani. Translated to the child base by Eliza Wyatt and Bencreating.

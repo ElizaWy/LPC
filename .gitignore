@@ -2,8 +2,8 @@
 *.aseprite
 *.ini
 
-# Characters/ is in-progress! Showing limited options as we finalize animations
-*Characters, Adults/_ Development Files
+# Showing limited options as we finalize WIPs
+*_ Development
 
 # Ignore folders for Work-In-Progress categories for the moment
 /Animals/
