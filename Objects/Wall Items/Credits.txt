@@ -1,0 +1,104 @@
+
+
+Christmas Wall Decor
+----------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+
+Curtains
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman and BlueCarrot16. Expanded and recolored by Eliza Wyatt.
+
+
+Graffiti & Graffiti Elements
+-------------------
+  ARTIST(S): Craftpix.net 2D Game Assets
+  SOURCE: https://opengameart.org/content/graffiti-constructor
+  LICENSE: OGA-by 3.0
+  DETAILS: Original by Craftpix.net
+
+
+Lighting, Wall
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: 
+	Top Row: Original by Lanea Zimmerman. Adjustments and recolors by Eliza Wyatt.
+	Second Row: Original by Eliza Wyatt.
+
+
+Mailboxes (tiling)
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+
+Mirrors
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+
+Paintings, Abstract
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Paintings, Landscape
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: OGA-BY 3.0
+  Details:
+ 	Original by Lanea Zimmerman, edited and recolored by Eliza Wyatt:
+	 - Mountain Landscape
+	Original by Eliza Wyatt:
+	 - Tree by River
+	 - Sailboat at Sunset
+	 - Starry Docks
+	 - Beachscape
+	 - Arid Farm Landscape
+	 - Great Wave Off Kanagawa study
+
+Paintings, Portraits
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: OGA-BY 3.0
+  Details:
+ 	Original by Lanea Zimmerman, edited and recolored by Eliza Wyatt:
+	 - King's Portrait
+	 - Woman's Small Portrait
+	Original by Eliza Wyatt:
+	 - Queen's Portrait
+	 - Knight's Portrait
+	 - Man's Small Portrait
+	 - Girl with the Pearl Earring study
+
+Paintings, Still Life
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Posters
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+
+Pride Flags
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.

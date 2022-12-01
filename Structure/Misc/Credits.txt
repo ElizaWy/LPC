@@ -13,13 +13,6 @@ Fountain A
   LICENSE: OGA-BY 3.0
   DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
 
-Ladder A
---------------
-  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
-  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
-  LICENSE: OGA-BY 3.0
-  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
-
 Pool A
 --------------
   ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
@@ -40,10 +33,3 @@ Trellis A
   SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
   LICENSE: OGA-BY 3.0
   DETAILS: Original design by Lanea Zimmerman. Expanded and recolored by Eliza Wyatt.
-
-Wolf Stone
---------------
-  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
-  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
-  LICENSE: OGA-BY 3.0
-  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.

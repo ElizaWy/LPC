@@ -4,13 +4,14 @@
 
 # Showing limited options as we finalize WIPs
 *_ Development
+/_ Test Scenes/
+/_ Discarded Drafts/
 
 # Ignore folders for Work-In-Progress categories for the moment
 /Animals/
 
 # Packs released on other sites (namely OpenGameArt.org)
 /_ Packs/
-/_ Discarded Drafts/
 
 # Ignore my template folders
 *Credits Template.txt

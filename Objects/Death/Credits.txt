@@ -1,7 +1,0 @@
-
-Skeletons A
--------------------
-  ARTIST(S): Lanea Zimmerman (Sharm)
-  SOURCE: https://opengameart.org/content/lpc-dungeon-elements
-  LICENSE: OGA-BY 3.0
-  DETAILS: Original by Lanea Zimmerman. Recolored by Eliza Wyatt.

@@ -1,0 +1,72 @@
+
+
+Children's Beds
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman and BlueCarrot16. Adjustments and recolors by Eliza Wyatt.
+
+Children's Headboards
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Resizes and Recolors by Eliza Wyatt.
+
+Children's Mattresses
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling), Lanea Zimmerman (Sharm), BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original mattresses by Eliza Wyatt. Pillows by Lanea Zimmerman and BlueCarrot16, edited and recolored by Eliza Wyatt.
+
+Double Beds
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman and BlueCarrot16. Adjustments and recolors by Eliza Wyatt.
+
+Double Headboards
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Resizes and Recolors by Eliza Wyatt.
+
+Double Mattresses
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling), Lanea Zimmerman (Sharm), BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original mattresses by Eliza Wyatt. Pillows by Lanea Zimmerman and BlueCarrot16, edited and recolored by Eliza Wyatt.
+
+
+Single Beds A
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman and BlueCarrot16. Adjustments and recolors by Eliza Wyatt.
+
+Single Beds B
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman and BlueCarrot16. Adjustments and recolors by Eliza Wyatt.
+
+Single Headboards
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Resizes and Recolors by Eliza Wyatt.
+
+Single Mattresses
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling), Lanea Zimmerman (Sharm), BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original mattresses by Eliza Wyatt. Pillows by Lanea Zimmerman and BlueCarrot16, edited and recolored by Eliza Wyatt.

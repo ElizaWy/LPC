@@ -1,0 +1,204 @@
+
+Bread A
+-------------------
+  ARTIST(S): Richard Kettering (Jetrel), BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/rpg-item-set
+  SOURCE: https://opengameart.org/content/lpc-meals
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: OGA-BY 3.0 (Original art CC0)
+  DETAILS: Original by Richard Kettering (Jetrel). Recolored by BlueCarrot16 and Eliza Wyatt.
+
+Bread B
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: OGA-BY 3.0 (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Edited and recolored by Eliza Wyatt.
+
+Bread C
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: OGA-BY 3.0 (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Edited and recolored by Eliza Wyatt.
+
+Butter
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: OGA-BY 3.0 (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Edited and recolored by Eliza Wyatt.
+
+Cheese A
+-------------------
+  ARTIST(S): Thekingphoenix, BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: http://opengameart.org/content/icons-food
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: OGA-BY 3.0 (Original art CC0)
+  DETAILS: Original by thekingphoenix. Recolored by BlueCarrot16 and Eliza Wyatt.
+
+Cheese B
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: OGA-BY 3.0 (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
+
+Dessert
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: OGA-BY 3.0 (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Edited and recolored by Eliza Wyatt.
+
+Eggs
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: OGA-BY 3.0 (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
+
+Fruit A
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-meals
+  LICENSE: OGA-BY 3.0 (Original art CC0)
+  DETAILS: Orange by Eliza Wyatt, other fruit and slices by BlueCarrot16. Recolored by Eliza Wyatt.
+
+Fruit B
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: OGA-BY 3.0 (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
+  NOTES:
+    1st Row: apricots, peaches, plums, tangerines, yuzu, pomegranate, olives, starfruit, cherimoya, soursop, figs, jackfruit, breadfruit, papaya, dragonfruit
+    2nd Row: rambutan, lychee, plantain, coconut, date, acai berries, juniper berries, avocado, persimmon, durian, guava, mango, mango, tamarind, kiwi
+    3rd Row: honeydew, cantalope, blackberries, raspberries, blueberries, elderberies, cranberries, mulberries, goosberries, red grapes, black grapes, purple grapes, green grapes, pineapple
+
+Grains, Grasses
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: OGA-BY 3.0 (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
+  NOTES:
+    1st Row: taro root, bamboo, rice, oats, barley, rye, wheat, quinoa, sugar cane, amaranth
+
+Grains, Rice, Noodles
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-meals
+  LICENSE: OGA-BY 3.0 (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
+
+Hamburgers
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-meals
+  LICENSE: OGA-BY 3.0 (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
+
+Herbs & Spices
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: OGA-BY 3.0 (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
+  NOTES: 
+    1st Row: tarragon, burdock root, chamomile, arugula, cress, fenugreek, licorice root, lemongrass, vanilla, saffron, chives, sumac, cloves, allspice, bay leaves
+    2nd Row: ginger, tumeric, ginseng, horseraddish, wasabi, mustard, sesame, fennel, parsley, cilantro, dill, cumin, peppercorn, nutmeg, cinnamon
+
+Meals
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-meals
+  LICENSE: OGA-BY 3.0
+  DETAILS: 
+	Row 1 & 2: Original CC0 by BlueCarrot16. Recolored by Eliza Wyatt.
+	Row 3+: Original by Eliza Wyatt.
+
+Meats A
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-meals
+  LICENSE: OGA-BY 3.0 (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
+
+Meats B
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: OGA-BY 3.0 (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
+
+Mushrooms
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: OGA-BY 3.0 (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
+  NOTES: 
+    1st Row: shiitake, button mushroom, oyster mushroom, sulfur shelf mushrooms, maitake mushroom, chanterelle mushroom, portobello mushroom, king trumpet mushroom, black morel mushroom, enoki mushroom
+
+Nuts
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: OGA-BY 3.0 (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
+  NOTES: 
+    1st Row: almonds, brazil nut, kola nut, pistachio, cashew, chestnut, pecan, walnut, macademia nut
+
+Seafood A
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: OGA-BY 3.0 (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
+
+Tea, Coffee, Medicinal Herbs
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: OGA-BY 3.0 (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
+  NOTES: 
+    1st Row: mugwort, coffee, aloe, hops, black tea, green tea, cocoa, poppy
+
+Tortillas
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-meals
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: OGA-BY 3.0 (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
+
+Vegetables A
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-meals
+  LICENSE: OGA-BY 3.0 (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
+
+Vegetables B
+-------------------
+  ARTIST(S): Richard Kettering (Jetrel), BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/rpg-item-set
+  SOURCE: https://opengameart.org/content/lpc-food
+  SOURCE: https://opengameart.org/content/lpc-meals
+  LICENSE: OGA-BY 3.0 (Original art CC0)
+  DETAILS: Original by Richard Kettering (Jetrel). Recolored by BlueCarrot16 and Eliza Wyatt.
+
+Vegetables C
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-food
+  LICENSE: OGA-BY 3.0 (Original art CC0)
+  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
+  NOTES:
+    1st Row: golden berry, naranjilla, mixed chili peppers, kiwano melon, delicata squash, acorn squash, butternut squash, ornamental gourds, ornamental gourds, romain lettuce, radicchio, cardoon, lacinato kale, kale, red cabbage, green cabbage, bok choy, brussels sprouts
+    2nd Row: broccoli rabe, kohrabi, romanesco broccoli, chayote, pepino dulce, green beans, soybeans, black beans, chickpeas, kidney beans, black-eyed peas, pinto beans, navy beans, black lentils, green lentils, red lentils, yellow lentils, peanuts
+    3rd Row: lotus root, asperagus, agave, nori, fiddlehead, prickly pear cactus, spinach, leeks, rhubarb, okra, celery, heart of palm
+
+    

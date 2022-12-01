@@ -1,0 +1,35 @@
+
+Dress Forms
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-tailor
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by BlueCarrot16. Edited and recolored by Eliza Wyatt.
+
+Loom
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-tailor
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by BlueCarrot16. Edited, cloth texture replaced, and recolored by Eliza Wyatt.
+
+Spinning Wheel
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-tailor
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
+
+Workbench, Sewing
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-tailor
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
+
+Workbench, Sewing Machine
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-tailor
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
