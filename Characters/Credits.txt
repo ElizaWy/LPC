@@ -5,14 +5,14 @@ Adult Head - Feminine
   ARTIST(S): Stephen Challener (Redshrike), Eliza Wyatt (DeathsDarling)
   SOURCE: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
   LICENSE: OGA-BY 3.0
-  DETAILS: Original by Stephen Challener. Edited to be smaller and recolored by Eliza Wyatt.
+  DETAILS: Original by Stephen Challener. Edited to be smaller and recolored by Eliza Wyatt. Expressions by Eliza Wyatt.
 
 Adult Head - Masculine
 -------------------
   ARTIST(S): Stephen Challener (Redshrike), Eliza Wyatt (DeathsDarling)
   SOURCE: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
   LICENSE: OGA-BY 3.0
-  DETAILS: Original by Stephen Challener. Edited to be smaller and recolored by Eliza Wyatt.
+  DETAILS: Original by Stephen Challener. Edited to be smaller and recolored by Eliza Wyatt. Expressions by Eliza Wyatt.
 
 Adult Head - Elderly
 -------------------
@@ -34,6 +34,8 @@ Body - Feminine, Thin
 	Climbing Animation - Original by Eliza Wyatt.
 	Emote Frames - Original by Eliza Wyatt.
 	Sitting Frames - Original by Eliza Wyatt.
+	Combat 1h (Idle, Slash, Halfslash, Backslash) - Original by Eliza Wyatt.
+	Legacy Swing - Original by Stephen Challener. Edited by Eliza Wyatt.
 
 Body - Masculine, Thin
 -------------------
@@ -50,6 +52,8 @@ Body - Masculine, Thin
 	Climbing Animation - Original by Eliza Wyatt.
 	Emote Frames - Original by Eliza Wyatt
 	Sitting Frames - Original by Eliza Wyatt
+	Combat 1h (Idle, Slash, Halfslash, Backslash) - Original by Eliza Wyatt.
+	Legacy Swing - Original by Stephen Challener. Edited by Eliza Wyatt.
 
 Wings 01 - Feathered Wings
 -------------------
