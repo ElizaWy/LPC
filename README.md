@@ -17,6 +17,6 @@ All of our assets are licensed under the Creative Commons Attribution 3.0 (CC-BY
 
 We're excited to see what incredible worlds you'll create using our assets!
 
-If you've found this project helpful and would like to support us, consider becoming a patron on ![Patreon](https://www.patreon.com/DeathsDarling). Your contributions will help us continue providing high-quality, freely accessible game assets to the indie game development community. We're active and continually adding new work, so be sure to check back regularly.
+If you've found this project helpful and would like to support us, consider becoming a patron at https://www.patreon.com/DeathsDarling. Your contributions will help us continue providing high-quality, freely accessible game assets to the indie game development community. We're active and continually adding new work, so be sure to check back regularly.
 
 Thank you for being a part of our community, and happy gaming!!
