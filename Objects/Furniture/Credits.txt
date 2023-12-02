@@ -252,6 +252,12 @@ Tv, Widescreen; Tv, Widescreen - No Service display
   LICENSE: OGA-BY 3.0
   DETAILS: Original by Eliza Wyatt.
 
+Vase Studies
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
 Vending Machine
 -------------------
   ARTIST(S): Eliza Wyatt (DeathsDarling)
